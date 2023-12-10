@@ -26,7 +26,8 @@ msf6 exploit(multi/handler) > exploit -j
 
 In Cobalt Strike, go to **Listeners > Add** and set the **Payload** to **Foreign HTTP**. Set the **Host** to **10.10.5.120**, the **Port** to **8080** and click **Save**.
 
-![[Pasted image 20230803170650.png]]
+![image](https://github.com/LeThanhkosogian/Learn-Cobalt-Strike/assets/97555997/9f5edcd6-eed1-45c0-b8e8-7776a9353b7d)
+
 
   
 
